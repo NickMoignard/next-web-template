@@ -5,7 +5,8 @@
       {
         "name": "next"
       }
-    ]
+    ],
+    "experimentalDecorators": true,
   },
   "include": [
     "next-env.d.ts",
@@ -16,5 +17,4 @@
   "exclude": [
     "node_modules"
   ],
-  "experimentalDecorators": true,
 }
